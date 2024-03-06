@@ -10,7 +10,7 @@
 
 	<h2>Presidents' Day Sale 2024</h2>
 	<ul>
-		<li>Compaq PResario Laptop: <strong>$799.99</strong></li>
+		<li>Compaq Presario Laptop: <strong>$799.99</strong></li>
 		<li>Epson Stylus CX6600 Color Printer: <strong>$440.99</strong></li>
 		<li>Proview Technology 24-Inch Monitor: <strong>$199.75</strong></li>
 		<li>Hawking Technology Wireless Card: <strong>$14.50</strong></li>
