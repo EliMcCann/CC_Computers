@@ -9,7 +9,7 @@
 	<?php include "cc_header.php" ?>
 	<h2>Contact Us Today!</h2>
 	<br/>
-	<p>Coast CSity Computers</p>
+	<p>Coast City Computers</p>
 	<address>
 		3601 Hempstead Turnpike<br/>
 		Levittown, NY 11756<br/>
